@@ -13,3 +13,4 @@ LOG
 CONF
 *.sublime-*
 .KEEPME
+OUT
