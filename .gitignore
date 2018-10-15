@@ -1,0 +1,15 @@
+*.hg/
+.hgignore
+RS
+.HELP/*
+toHELP
+toDO
+*.py
+*_run
+run_*
+LOG
+.LOG
+*-rs
+CONF
+*.sublime-*
+.KEEPME
