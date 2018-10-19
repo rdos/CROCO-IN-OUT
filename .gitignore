@@ -14,3 +14,5 @@ CONF
 *.sublime-*
 .KEEPME
 OUT
+/1-load/log-show
+/2-pars/log-show
